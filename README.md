@@ -2,7 +2,7 @@
 
 Sou Larissa da Silva Souza, atualmente estou no ensino médio e estou cursando técnico de desenvolvimento de sistemas.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Higor%20Bernardes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/larissa-da-silva-souza-1b5055382/)](http://linkedin.com/in/larissa-da-silva-souza-1b5055382/)
+[![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/larissa-da-silva-souza-1b5055382/)](http://linkedin.com/in/larissa-da-silva-souza-1b5055382/)
 
 ---
 
